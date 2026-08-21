@@ -1,0 +1,5 @@
+* text eol=crlf
+*.sh text eol=lf
+*.md text eol=lf
+data/*.csv text eol=lf charset=utf-16le-bom
+*.sql text eol=crlf
